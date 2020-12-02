@@ -7,7 +7,7 @@ An electron based app for the Noah670 website
 
 > Download the latest version of [Node.js](https://nodejs.org/en/download/) to use npm dependencies 
 
-[test](https://github.com/Noah670/electro-Noah670/blob/master/screens/electro-Noah670-screen.gif)
+![alt-text](https://github.com/Noah670/electro-Noah670/blob/master/screens/electro-Noah670-screen.gif)
 
 > Clone or fork the repository
 
