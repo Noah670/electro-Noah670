@@ -1,5 +1,5 @@
 # electro-Noah670
-An electron based app for the Noah670 website and also view the version of Node.js installed
+An electron based app for the Noah670 website and also view the version of Node.js currently installed
 
 ![alt-text](https://github.com/Noah670/electro-Noah670/blob/master/screens/electro-Noah670-screen.gif)
 
