@@ -5,7 +5,10 @@ An electron based app for the Noah670 website
 
 # Build
 
-Download the latest version of [Node.js](node) to use npm dependencies 
+ > Download the latest version of [Node.js](https://nodejs.org/en/download/) to use npm dependencies 
+
+
+Clone or fork the repository
 
 ``` git clone https://github.com/Noah670/electro-Noah670  ```
 
