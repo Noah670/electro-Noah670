@@ -1,13 +1,14 @@
 # electro-Noah670
 An electron based app for the Noah670 website
 
+![alt-text](https://github.com/Noah670/electro-Noah670/blob/master/screens/electro-Noah670-screen.gif)
 
 
 # Build
 
 > Download the latest version of [Node.js](https://nodejs.org/en/download/) to use npm dependencies 
 
-![alt-text](https://github.com/Noah670/electro-Noah670/blob/master/screens/electro-Noah670-screen.gif)
+
 
 > Clone or fork the repository
 
