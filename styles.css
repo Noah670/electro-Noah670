@@ -1,0 +1,26 @@
+body {
+    background-color: #659DBD;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    position: relative;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: white;
+    position: relative;
+    font-family: sans-serif;
+}
+
+p {
+    color: white;
+    font-family: sans-serif;
+}
