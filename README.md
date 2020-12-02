@@ -1,21 +1,32 @@
 # electro-Noah670
-An electron based app for Noah670
+An electron based app for the Noah670 website
 
 
 
-# build
+# Build
 
+Download the latest version of [Node.js](node) to use npm dependencies 
 
-Install npm
+``` git clone https://github.com/Noah670/electro-Noah670  ```
 
-npm start
+Install “Electron Forge” using the following command:
 
+``` npm install -g electron-forge  ```
 
+Verify that electro-Noah670 is running with
 
-# releases
+```npm run package ```
+
+Finally build with
+
+``` npm run make ```
+
+# Releases
 
 ## Installer
+install
 
 
 ## Portable version
 
+install
