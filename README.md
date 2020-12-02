@@ -26,10 +26,8 @@ An electron based app for the Noah670 website
 
 # Releases
 
-## x64 Installer
-- install
+## [x64 Installer](https://github.com/Noah670/electro-Noah670/releases/download/v1.0/Noah670-1.0.0.Setup.exe)
 
 
-## Portable version
+## [Portable version](https://github.com/Noah670/electro-Noah670/releases/download/v1.0/Noah670-win32-x64-portable.zip)
 
- - install
